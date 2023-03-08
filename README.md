@@ -2,7 +2,7 @@
 - 👀 I’m interested in video game development, painting and writing novels
 - 🌱 I’m currently learning how to survive a rat race
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me 1134419766@qq.com. But honestly, I don't make a habit of checking my email
+- 📫 How to reach me horizoi@outlook.com (Primary) or 1134419766@qq.com
 
 <!---
 MinamiyamaHokuto/MinamiyamaHokuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
